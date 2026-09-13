@@ -1,22 +1,3 @@
-Yes 👍 Let's create a **professional `README.md`** for your Spam Email Detector.
-
-Since this is for your college/project GitHub, I'll make it look like a proper **NLP + Machine Learning project**, but keep the language simple and natural.
-
-Create a file named:
-
-```text
-README.md
-```
-
-inside:
-
-```text
-D:\spam_email_detector
-```
-
-Then paste this entire content:
-
-````markdown
 # 📧 Spam Email Detector
 
 An NLP-based Machine Learning project that classifies emails as **Spam** or **Not Spam** using **TF-IDF** and **Multinomial Naive Bayes**.
